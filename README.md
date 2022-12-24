@@ -1,9 +1,7 @@
-# Im Here
+# Ignite Teams
 
-O projeto consiste em um APP de uma lista de convidados de um evento, onde é possível adiocionar e remover convidados. O APP foi desenvolvido durante o primeiro módulo do curso de React Native do Ignite da Rocketseat.
- 
-Apesar de eu já ter uma grande experiência com React, o estudo foi muito bom para rever conceitos importantes além de conhecer as tags que são utilizadas no React Native.
+O Ignite Teams é um APP para gerenciamento de de jogadores, que são divididos entre grupos e, dentro dos grupos, são dividos em times para jogar algum jogo. O projeto foi desenvolvido durante o 2° módulo do curso de React Native da jornada Ignite da Rocketseat.
 
-##
+---
 
-![im_here](https://user-images.githubusercontent.com/84635540/208510357-73801fff-b40e-464f-88c5-bcd2b829ca32.gif)
+![ignite_teams](https://user-images.githubusercontent.com/84635540/209446952-c9ba00b5-206a-4344-94bb-187451dfe3a4.gif)
