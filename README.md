@@ -1,6 +1,6 @@
 # Ignite Teams
 
-O Ignite Teams é um APP para gerenciamento de de jogadores, que são divididos entre grupos e, dentro dos grupos, são dividos em times para jogar algum jogo. O projeto foi desenvolvido durante o 2° módulo do curso de React Native da jornada Ignite da Rocketseat.
+O Ignite Teams é um APP para gerenciamento de jogadores, que são divididos entre grupos e, dentro dos grupos, são dividos em times para jogar algum jogo. O projeto foi desenvolvido durante o 2° módulo do curso de React Native da jornada Ignite da Rocketseat.
 
 ---
 
