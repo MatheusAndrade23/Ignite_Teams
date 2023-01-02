@@ -4,7 +4,7 @@
  <img src="https://user-images.githubusercontent.com/84635540/210188699-667d5ef1-9a5a-411f-9e0e-0bfe75ee0dfc.png" width="150px" alt="Home Image"/>
 </div>
 
-<h3 align="center">Um App para controle de jogadores desenvolvido com React Native + Typescript para um desafio da trilha de React Native da jornada Ignite, da Rocketseat.</h3>
+<h3 align="center">Um App para controle de jogadores desenvolvido com React Native + Typescript durante um módulo da trilha de React Native da jornada Ignite, da Rocketseat.</h3>
 
 ---
 
